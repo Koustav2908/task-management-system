@@ -1,0 +1,483 @@
+title,description,created_at,deadline,category,priority
+Finish quarterly budget report,Compile expenditure data and finalize the budget report for Q2.,2025-06-28,2025-07-15,work,high
+Schedule dentist appointment,Call Dr. Mehta's clinic to book your routine dental cleaning.,2025-07-05,2025-07-20,health,medium
+Study for algorithms exam,Review sorting algorithms and solve last year's question papers.,2025-06-30,2025-07-18,education,high
+Renew car insurance,Compare quotes and renew comprehensive car insurance online.,2025-07-02,2025-07-25,finance,low
+Update project README,Add setup instructions and contribution guidelines to the GitHub repo.,2025-07-10,2025-07-14,project,medium
+Submit final project report,Compile findings and submit the final report to professor.,2025-07-01,2025-07-15,education,high
+Renew health insurance policy,Login to the portal and complete policy renewal process.,2025-07-03,2025-07-20,finance,medium
+Book annual health check-up,Schedule appointment for general tests at nearby clinic.,2025-07-02,2025-07-18,health,medium
+Prepare presentation slides,Create slides for Monday's marketing strategy meeting.,2025-07-04,2025-07-08,work,high
+Clean bedroom closet,"Sort clothes, remove unused items, and reorganize.",2025-07-05,2025-07-15,home,low
+Update LinkedIn profile,Add recent achievements and update profile photo.,2025-07-01,2025-07-10,career,medium
+Research travel destinations for holiday,"Compare locations, weather, and activities.",2025-07-03,2025-07-25,travel,low
+Practice sketching daily for 15 mins,Improve drawing skills through regular practice.,2025-07-01,2025-07-31,hobby,low
+Fix layout bug in portfolio site,Resolve overlapping content in mobile view.,2025-07-05,2025-07-10,tech,medium
+Volunteer for local tree plantation,Register online and attend the community event.,2025-07-02,2025-07-16,community,medium
+Plan weekly team tasks,Break down sprint goals and assign responsibilities.,2025-07-01,2025-07-06,project,high
+Organize study notes,Compile and digitize lecture notes for easy access.,2025-07-04,2025-07-18,education,medium
+Pay internet bill online,Log in and complete payment to avoid service interruption.,2025-07-02,2025-07-05,finance,high
+Replace kitchen light bulb,Buy bulb and install in kitchen ceiling.,2025-07-03,2025-07-09,home,low
+Attend resume building webinar,Register for online session and take notes.,2025-07-05,2025-07-12,career,medium
+Check passport expiry,Verify renewal need and book appointment.,2025-07-01,2025-07-20,personal,low
+Create travel checklist,"Include documents, charger, snacks, and tickets.",2025-07-04,2025-07-14,travel,medium
+Learn new ukulele chords,Follow online tutorial for daily practice.,2025-07-01,2025-07-28,hobby,low
+Update antivirus software,Ensure latest version is running on laptop.,2025-07-03,2025-07-07,tech,medium
+Set up GitHub project repo,Create README and initialize repository.,2025-07-01,2025-07-05,project,medium
+Revise math for semester exam,Solve previous year papers and revise formulas.,2025-07-02,2025-07-22,education,high
+Renew Netflix subscription,Update payment method before next billing date.,2025-07-03,2025-07-10,personal,low
+Buy groceries for week,Create list and visit nearby supermarket.,2025-07-01,2025-07-03,home,medium
+Prepare for HR interview,Read job description and practice mock answers.,2025-07-02,2025-07-11,career,high
+Book bus tickets for weekend trip,Select seats and pay online.,2025-07-04,2025-07-07,travel,medium
+Schedule weekend photography session,Pick location and pack gear.,2025-07-05,2025-07-10,hobby,low
+Install VS Code extensions,Install required tools for web dev workflow.,2025-07-03,2025-07-08,tech,low
+Contribute to open source issue,Choose beginner-friendly task and submit PR.,2025-07-01,2025-07-15,project,medium
+Take vitamins daily,Set reminder for morning dose.,2025-07-01,2025-07-31,health,low
+Submit tax documents,Upload scanned forms to government portal.,2025-07-01,2025-07-20,finance,high
+Clean kitchen drawers,Remove expired items and wipe compartments.,2025-07-05,2025-07-12,home,low
+Update job portal profiles,Refresh resume and contact details.,2025-07-03,2025-07-10,career,medium
+Send birthday card to cousin,Write note and drop it at the post.,2025-07-01,2025-07-06,personal,low
+Research cheapest flight to Mumbai,Use aggregator site to compare options.,2025-07-01,2025-07-10,travel,low
+Upload new artwork to DeviantArt,Add description and category tags.,2025-07-04,2025-07-09,hobby,low
+Back up laptop files to cloud,Organize and upload recent documents.,2025-07-01,2025-07-10,tech,high
+Draft UI wireframes for new app,Design low-fidelity mockups for login flow.,2025-07-02,2025-07-14,project,high
+Prepare cheat sheet for physics test,Condense formulas and laws on single page.,2025-07-01,2025-07-07,education,high
+Join gym near apartment,Take trial and complete registration.,2025-07-03,2025-07-10,health,medium
+Review monthly expenses,Update spreadsheet and categorize spend.,2025-07-01,2025-07-05,finance,medium
+Rearrange living room furniture,Try new layout for more space.,2025-07-02,2025-07-10,home,low
+Read blog about resume tips,Save favorite tips and apply them.,2025-07-01,2025-07-06,career,low
+Plan solo weekend retreat,Look for budget stays and nature spots.,2025-07-03,2025-07-15,travel,medium
+Practice landscape painting,Finish one painting this week.,2025-07-01,2025-07-10,hobby,medium
+Update Python version on laptop,Uninstall old version and install latest.,2025-07-04,2025-07-09,tech,high
+Close resolved tasks on Kanban board,Move completed cards to done column.,2025-07-02,2025-07-03,project,low
+Create flashcards for biology,Use spaced repetition app for revision.,2025-07-01,2025-07-15,education,high
+Book dentist appointment,Routine checkup and cleaning.,2025-07-01,2025-07-20,health,medium
+Organize bank statements,Download PDFs and sort by date.,2025-07-03,2025-07-07,finance,low
+Clean under the bed,Vacuum and declutter hidden items.,2025-07-01,2025-07-05,home,low
+Write cover letter for internship,Personalize letter for company.,2025-07-02,2025-07-08,career,high
+Confirm hotel booking details,Check email confirmation and amenities.,2025-07-01,2025-07-04,travel,low
+Take keyboard lesson online,Follow YouTube beginner playlist.,2025-07-01,2025-07-31,hobby,medium
+Set up SSH key for GitHub,Generate and link to account.,2025-07-03,2025-07-06,tech,medium
+Join design review meeting,Share feedback on UI prototype.,2025-07-02,2025-07-03,project,medium
+Revise for history quiz,Review chapters 3 to 5.,2025-07-01,2025-07-07,education,high
+Refill asthma inhaler,Visit pharmacy with prescription.,2025-07-02,2025-07-06,health,high
+Check credit card statement,Look for suspicious charges.,2025-07-03,2025-07-05,finance,medium
+Dust ceiling fans,Use extendable duster.,2025-07-01,2025-07-04,home,low
+Send follow-up email after interview,Thank them and ask about status.,2025-07-02,2025-07-06,career,high
+Check railway timings for trip,Confirm platform and train schedule.,2025-07-01,2025-07-03,travel,low
+Create digital scrapbook,Use Canva for layout and text.,2025-07-01,2025-07-20,hobby,low
+Upgrade Node.js version,Test app after upgrade.,2025-07-03,2025-07-06,tech,high
+Create roadmap for August features,List priorities and milestones.,2025-07-02,2025-07-09,project,high
+Read assigned literature chapter,Finish chapter 7 and highlight key points.,2025-07-01,2025-07-04,education,medium
+Order multivitamins,Compare brands online.,2025-07-01,2025-07-05,health,medium
+Withdraw cash for weekend,Visit nearest ATM.,2025-07-01,2025-07-02,finance,low
+Scrub bathroom tiles,Use vinegar and baking soda.,2025-07-03,2025-07-05,home,low
+Update job application tracker,Add latest positions and status.,2025-07-02,2025-07-05,career,medium
+Look up sightseeing spots in Jaipur,Create travel guide.,2025-07-01,2025-07-10,travel,low
+Fix broken guitar string,Buy replacement string.,2025-07-01,2025-07-06,hobby,medium
+Test browser compatibility for website,"Check Chrome, Safari, Firefox.",2025-07-03,2025-07-06,tech,medium
+Conduct user testing session,Take feedback on onboarding flow.,2025-07-02,2025-07-08,project,high
+Summarize lecture notes,Prepare short notes for revision.,2025-07-01,2025-07-03,education,high
+Take daily walk in evening,20 minutes around block.,2025-07-01,2025-07-31,health,low
+Pay mutual fund SIP,Auto-debit check.,2025-07-02,2025-07-04,finance,medium
+Dust bookshelves,Use microfiber cloth.,2025-07-01,2025-07-03,home,low
+Apply for online internship,Check eligibility and submit application.,2025-07-02,2025-07-10,career,high
+Buy sleeper class train ticket,Use IRCTC app.,2025-07-01,2025-07-05,travel,low
+Sketch portrait of friend,Use charcoal pencil.,2025-07-02,2025-07-09,hobby,medium
+Install latest Chrome update,Restart after install.,2025-07-01,2025-07-02,tech,medium
+Split tasks in Trello board,Create individual checklists.,2025-07-03,2025-07-04,project,medium
+Watch math lecture video,Linear algebra module.,2025-07-01,2025-07-03,education,medium
+Measure blood pressure weekly,Record values.,2025-07-01,2025-07-31,health,low
+Generate PDF invoice for client,Send via email.,2025-07-02,2025-07-05,finance,high
+Mop kitchen floor,Use disinfectant solution.,2025-07-01,2025-07-02,home,low
+Update GitLab pipeline config,Fix broken deployment.,2025-07-03,2025-07-07,tech,high
+Reply to recruiter email,Schedule interview slot.,2025-07-02,2025-07-04,career,high
+Buy sunscreen lotion,Look for labels SPF 50+,2025-07-01,2025-07-03,personal,low
+Finalize group project tasks,Assign remaining subtasks to team members.,2025-07-01,2025-07-08,project,high
+Track monthly fitness progress,Record weight and muscle gain in app.,2025-07-02,2025-07-31,health,medium
+Pay credit card bill before due,Clear outstanding balance to avoid interest.,2025-07-03,2025-07-10,finance,high
+Clean balcony garden,Remove weeds and water plants.,2025-07-01,2025-07-04,home,low
+Polish LinkedIn summary,Highlight skills and achievements.,2025-07-02,2025-07-09,career,medium
+Book tickets for office trip,Coordinate with HR and finalize route.,2025-07-03,2025-07-14,travel,medium
+Start digital art series,Pick theme and create first piece.,2025-07-01,2025-07-20,hobby,medium
+Upgrade system RAM,Buy compatible module and install.,2025-07-02,2025-07-06,tech,medium
+Submit proposal to NGO,Finalize document and email to coordinator.,2025-07-01,2025-07-07,community,high
+Create presentation deck,Prepare 5 slides for project pitch.,2025-07-01,2025-07-05,work,high
+Join online history forum,Register and introduce yourself.,2025-07-01,2025-07-03,education,low
+Invest in SIP via mobile app,Select fund and start monthly auto-pay.,2025-07-02,2025-07-10,finance,medium
+Organize kitchen containers,Label and clean all jars and boxes.,2025-07-01,2025-07-08,home,low
+Apply for hackathon,Fill registration and submit team info.,2025-07-02,2025-07-11,career,high
+Renew travel insurance,Choose plan and pay renewal premium.,2025-07-03,2025-07-15,travel,medium
+Record time-lapse of painting,Set up camera before you start.,2025-07-01,2025-07-10,hobby,low
+Update IDE to latest version,Download and restart system.,2025-07-01,2025-07-02,tech,medium
+Host coding workshop for juniors,Prepare material and announce date.,2025-07-02,2025-07-18,community,high
+Upload weekly status report,Share progress with manager.,2025-07-01,2025-07-05,work,high
+Read PDF on neural networks,Highlight useful notes and save.,2025-07-01,2025-07-04,education,medium
+Submit claim for travel reimbursement,Attach bills and travel tickets.,2025-07-03,2025-07-09,finance,medium
+Replace broken drawer handle,Buy matching handle from hardware store.,2025-07-01,2025-07-06,home,low
+Edit resume for data analyst job,Add new certification and projects.,2025-07-02,2025-07-07,career,high
+Download offline map for trip,Use Google Maps or alternative.,2025-07-01,2025-07-05,travel,low
+Post new poem on blog,Format and publish with image.,2025-07-01,2025-07-09,hobby,medium
+Clean up old files in project repo,Delete outdated scripts and images.,2025-07-02,2025-07-06,tech,medium
+Write welcome message for new community members,Post in Slack or forum.,2025-07-01,2025-07-03,community,low
+Update project Kanban board,Move tickets to current sprint.,2025-07-01,2025-07-02,project,medium
+Submit feedback for online course,Fill feedback form with suggestions.,2025-07-01,2025-07-04,education,low
+Book appointment with physiotherapist,Call clinic for availability.,2025-07-03,2025-07-10,health,medium
+Budget expenses for next month,Divide income across categories.,2025-07-01,2025-07-05,finance,medium
+Buy cleaning supplies,Refill floor cleaner and brushes.,2025-07-01,2025-07-03,home,low
+Apply for data science internship,Complete online form and attach resume.,2025-07-01,2025-07-08,career,high
+Plan itinerary for trip to Kerala,Add places to visit and stay options.,2025-07-01,2025-07-10,travel,medium
+Set time for photography session,Choose evening for good light.,2025-07-01,2025-07-04,hobby,low
+Check webcam permissions for Zoom,Test before upcoming meetings.,2025-07-01,2025-07-02,tech,low
+Publish monthly newsletter,Include events and updates.,2025-07-01,2025-07-06,community,medium
+Review Q2 performance goals,Prepare notes for 1-on-1.,2025-07-01,2025-07-05,work,high
+Join online physics webinar,Attend live session or watch replay.,2025-07-01,2025-07-04,education,medium
+Buy multivitamins,Order from trusted pharmacy.,2025-07-01,2025-07-03,health,low
+Setup UPI auto-pay for rent,Link to bank and schedule.,2025-07-01,2025-07-02,finance,medium
+Declutter wardrobe,Donate clothes you don't wear.,2025-07-01,2025-07-07,home,low
+Research job openings in data analytics,Browse portals and save listings.,2025-07-01,2025-07-10,career,high
+Check hotel cancellation policy,Review terms before confirming.,2025-07-01,2025-07-03,travel,low
+Sketch comic strip,Storyboard 4-panel sketch.,2025-07-01,2025-07-10,hobby,medium
+Verify server SSL certificate,Renew if expiring soon.,2025-07-01,2025-07-06,tech,high
+Draft event description for blood drive,Include date and contact details.,2025-07-01,2025-07-08,community,medium
+Fix alignment bug on homepage,Check CSS margins.,2025-07-01,2025-07-04,project,medium
+Re-read chemistry chapters 4 to 6,Highlight important reactions.,2025-07-01,2025-07-07,education,high
+Book eye check-up appointment,Choose weekend slot.,2025-07-01,2025-07-09,health,medium
+Download past bank statements,Archive for tax purposes.,2025-07-01,2025-07-03,finance,medium
+Mop balcony floor,Remove dust and dry leaves.,2025-07-01,2025-07-02,home,low
+Create list of recruiters to contact,Use LinkedIn and job fairs.,2025-07-01,2025-07-10,career,medium
+Update train ticket PNR on calendar,Add time and seat details.,2025-07-01,2025-07-03,travel,low
+Publish travel photo on Instagram,Write short caption.,2025-07-01,2025-07-05,hobby,low
+Test login page validations,Enter invalid emails and check.,2025-07-01,2025-07-04,tech,medium
+Create FAQs for community website,Write 5 common questions.,2025-07-01,2025-07-06,community,medium
+Prepare team demo slides,Include screenshots and key metrics.,2025-07-01,2025-07-03,work,high
+Solve 10 aptitude questions daily,Use online platform.,2025-07-01,2025-07-31,education,medium
+Do 15 minutes of yoga,Follow beginner video.,2025-07-01,2025-07-31,health,low
+Transfer funds to savings,Automate monthly transfer.,2025-07-01,2025-07-02,finance,medium
+Vacuum sofa and cushions,Focus on corners and gaps.,2025-07-01,2025-07-03,home,low
+Look for virtual career fair dates,Register early.,2025-07-01,2025-07-10,career,medium
+List weekend getaway options,Choose resort or homestay.,2025-07-01,2025-07-07,travel,low
+Record a new podcast episode,Choose topic and edit audio.,2025-07-01,2025-07-08,hobby,medium
+Sync code with remote repo,Pull changes and resolve conflicts.,2025-07-01,2025-07-02,tech,high
+Promote recycling campaign in society,Put up posters in lobby.,2025-07-01,2025-07-05,community,medium
+Merge pull request after review,Verify checks are passed.,2025-07-01,2025-07-02,project,medium
+Revise geography for weekly quiz,Focus on maps and rivers.,2025-07-01,2025-07-06,education,medium
+Book physiotherapy follow-up,Check availability.,2025-07-01,2025-07-04,health,medium
+Verify PAN card details,Check government portal.,2025-07-01,2025-07-05,finance,low
+Clean window tracks,Use brush and vacuum.,2025-07-01,2025-07-03,home,low
+Write application for research internship,Highlight academic achievements.,2025-07-01,2025-07-10,career,high
+Download e-ticket for weekend journey,Save PDF to phone.,2025-07-01,2025-07-02,travel,low
+Practice charcoal shading techniques,Follow tutorial video.,2025-07-01,2025-07-07,hobby,medium
+Install TypeScript in project,Update config files.,2025-07-01,2025-07-03,tech,high
+Email survey form to society members,Collect responses before Friday.,2025-07-01,2025-07-05,community,medium
+Conduct code walkthrough with intern,Explain module logic.,2025-07-01,2025-07-03,work,high
+Summarize chapter 3 of economics textbook,Take handwritten notes.,2025-07-01,2025-07-04,education,medium
+Check expiry date of first aid kit,Replace if needed.,2025-07-01,2025-07-03,health,low
+Update mutual fund SIP amounts,Adjust based on income.,2025-07-01,2025-07-05,finance,medium
+Clean air conditioner filters,Run fan-only mode after.,2025-07-01,2025-07-04,home,low
+Shortlist companies for summer internship,Research on Glassdoor.,2025-07-01,2025-07-12,career,medium
+Book taxi to airport,Use prepaid app.,2025-07-01,2025-07-04,travel,medium
+Share new artwork on Behance,Include tags.,2025-07-01,2025-07-07,hobby,low
+Debug backend API endpoint,Fix null pointer error.,2025-07-01,2025-07-03,tech,high
+Design flyer for blood donation drive,Use Canva template.,2025-07-01,2025-07-06,community,high
+Book taxi to airport,Book cab using Ola app to reach airport on time.,2025-07-01,2025-07-04,travel,medium
+Share new artwork on Behance,Upload travel sketch and add relevant tags and description.,2025-07-01,2025-07-07,hobby,low
+Debug backend API endpoint,Fix null pointer error causing crashes in production.,2025-07-01,2025-07-03,tech,high
+Design flyer for blood donation drive,Use Canva templates to create eye-catching flyer.,2025-07-01,2025-07-06,community,high
+Submit annual income report,Gather pay slips and update figures in final form.,2025-06-29,2025-07-10,finance,high
+Schedule dentist checkup,Call clinic and confirm slot for cleaning and cavity check.,2025-07-03,2025-07-15,health,medium
+Organize workspace drawers,Clear old printouts and arrange office supplies neatly.,2025-07-02,2025-07-08,home,low
+Review meeting notes with manager,Go over action items and follow-ups from the last meeting.,2025-07-01,2025-07-05,work,medium
+Apply for Python certification course,Register on Coursera for Python basics program.,2025-07-01,2025-07-14,education,high
+Pay house rent for July,Use UPI app to transfer rent to landlord.,2025-07-01,2025-07-05,finance,high
+Water indoor plants,Check soil moisture and water accordingly.,2025-07-01,2025-07-01,home,low
+Send thank-you email to interview panel,Express gratitude and reiterate interest in the position.,2025-07-03,2025-07-06,career,high
+Plan itinerary for Kerala trip,"List top sights, timings, and places to eat.",2025-07-01,2025-07-20,travel,medium
+Finish reading machine learning chapter,Complete supervised learning section before assignment.,2025-07-02,2025-07-07,education,medium
+Create budget tracker Excel sheet,"Include income, expenses, savings, and graphs.",2025-06-30,2025-07-05,finance,medium
+Update LinkedIn headline and summary,Add new skills and update profile picture.,2025-07-01,2025-07-10,career,medium
+Clean balcony and wash outdoor furniture,Scrub chairs and sweep tiles thoroughly.,2025-07-02,2025-07-06,home,low
+Submit group project draft,Combine team inputs and finalize first version.,2025-07-01,2025-07-09,project,high
+Pick up medicines from pharmacy,Buy supplements and monthly prescriptions.,2025-07-03,2025-07-04,health,medium
+Register for UI/UX design webinar,Reserve virtual seat via official portal.,2025-07-01,2025-07-08,education,low
+Finish cover letter for internship,Customize message for marketing internship application.,2025-07-02,2025-07-05,career,high
+Reboot router and update firmware,Access admin panel and check for updates.,2025-07-03,2025-07-07,tech,medium
+Back up project files to Google Drive,Create folder structure and sync latest files.,2025-07-01,2025-07-03,project,high
+Buy travel insurance,Compare policies and choose best coverage online.,2025-07-01,2025-07-10,finance,medium
+Create morning workout routine,"Include stretching, walks, and light cardio.",2025-07-02,2025-07-07,health,low
+Draft email for client proposal,"Include timeline, scope, and pricing clearly.",2025-07-01,2025-07-03,work,high
+Look up recipes for healthy snacks,Find three quick options for office munching.,2025-07-04,2025-07-12,personal,low
+Install updates for graphic design software,Ensure Figma and Illustrator are current.,2025-07-02,2025-07-06,tech,medium
+Read book "Ikigai" before vacation,Finish chapters by end of this weekend.,2025-07-01,2025-07-08,hobby,medium
+Book hotel for anniversary trip,Choose property with good reviews in Udaipur.,2025-07-01,2025-07-15,travel,medium
+Submit scanned documents to HR,"Send Aadhar, PAN and bank details.",2025-07-01,2025-07-04,work,high
+Paint bedroom wall,Pick pastel color and apply two coats.,2025-07-02,2025-07-10,home,medium
+Fix broken zipper on duffel bag,Take to local repairs for stitching.,2025-07-02,2025-07-11,personal,low
+Help brother with math homework,Teach algebra basics and solve practice questions.,2025-07-01,2025-07-03,education,medium
+Schedule morning jogs,Pick days and track runs with smart watch.,2025-07-01,2025-07-31,health,low
+Complete module on cloud computing,Finish AWS basics chapter and quiz.,2025-07-04,2025-07-10,tech,high
+Prepare slides for weekly team sync,Use bullet points and limit to 10 slides.,2025-07-03,2025-07-06,work,high
+Organize photo albums on phone,Sort by date and delete duplicates.,2025-07-02,2025-07-13,personal,low
+Fix bugs in weather app UI,Resolve alignment and responsiveness issues.,2025-07-03,2025-07-08,project,high
+Visit grandma on weekend,Bring groceries and help sort medications.,2025-07-04,2025-07-06,personal,medium
+Create grocery list for week,Add items for three meals per day.,2025-07-01,2025-07-02,home,low
+Practice HTML and CSS daily,Spend one hour revising concepts and code samples.,2025-07-01,2025-07-31,education,medium
+Write blog post on freelancing tips,Share experiences and productivity hacks.,2025-07-02,2025-07-12,hobby,medium
+Book physiotherapy session,Check appointment availability online and confirm slot.,2025-07-03,2025-07-15,health,medium
+Clean old files from downloads folder,Sort and archive important documents only.,2025-07-01,2025-07-03,tech,low
+Volunteer at animal shelter,Confirm shift timings for Sunday afternoon.,2025-07-01,2025-07-06,community,medium
+Create profile on GitHub,Upload sample projects and write descriptions.,2025-07-04,2025-07-10,career,medium
+Buy shoes for trek,Choose waterproof and ankle-length hiking option.,2025-07-02,2025-07-11,travel,medium
+Prepare project report introduction,"Include project scope, goals and objectives.",2025-07-04,2025-07-09,education,high
+Renew antivirus subscription,Use email link or official website.,2025-07-03,2025-07-07,tech,high
+Call plumber to fix drain blockage,Schedule visit for weekend morning.,2025-07-02,2025-07-06,home,medium
+Donate old books and clothes,Pack and schedule pickup via NGO site.,2025-07-01,2025-07-10,community,low
+Research SIP investment options,Compare mutual funds online for low-risk plans.,2025-07-02,2025-07-15,finance,medium
+Submit abstract for AI workshop,Write and send summary of research idea.,2025-07-04,2025-07-12,education,high
+Defrost and clean freezer,Turn off freezer and remove ice and old food.,2025-07-03,2025-07-07,home,low
+Review credit card statement,Check recent transactions for any discrepancies.,2025-07-04,2025-07-08,finance,high
+Attend CPR training workshop,Join community center event for first aid skills.,2025-07-03,2025-07-06,health,medium
+Finalize team branding colors,Pick color palette for project design system.,2025-07-01,2025-07-05,project,medium
+Write pitch for startup idea,"Outline concept, audience, and monetization model.",2025-07-02,2025-07-09,career,high
+Research next career move,"Explore industry changes, job roles, and skill trends.",2025-07-03,2025-07-20,career,medium
+Compile user feedback from beta app,Summarize user suggestions and reported issues.,2025-07-04,2025-07-10,project,high
+Get haircut before trip,Book appointment at usual barber.,2025-07-01,2025-07-05,personal,low
+Change Wi-Fi password,Update router with new secure credentials.,2025-07-03,2025-07-06,tech,medium
+Read article on blockchain technology,Review basics and use cases in supply chain.,2025-07-04,2025-07-11,education,low
+Fix study table drawer jam,Oil hinges and align drawer runners.,2025-07-03,2025-07-08,home,low
+Sort and donate unused electronics,Find working items to give to local NGO.,2025-07-02,2025-07-14,community,medium
+Clean windows and glass panes,Wipe down with soap and vinegar solution.,2025-07-04,2025-07-09,home,low
+Upgrade laptop RAM to 16GB,Buy compatible RAM and install safely.,2025-07-02,2025-07-11,tech,high
+Call insurance helpline for policy renewal,Clarify new premium and renewal status.,2025-07-03,2025-07-10,finance,medium
+Return library books before due date,Avoid late fees by visiting branch.,2025-07-01,2025-07-04,personal,medium
+Scan old certificates and upload,Digitize education documents for backup.,2025-07-03,2025-07-07,career,high
+Join local photography meetup,RSVP and prepare camera gear.,2025-07-04,2025-07-15,hobby,medium
+Check train schedule for weekend trip,Look up timings and platform details.,2025-07-03,2025-07-07,travel,low
+Send update to volunteer mailing list,Share schedules and goals for the month.,2025-07-01,2025-07-05,community,medium
+Post resume on job portal,Upload updated CV with photo and keywords.,2025-07-01,2025-07-06,career,high
+Reinstall antivirus on desktop,Remove old version and install new build.,2025-07-03,2025-07-08,tech,high
+Take backup of old smartphone photos,Use cloud to archive all image files.,2025-07-02,2025-07-06,personal,medium
+Start gratitude journaling,Buy or make notebook and write daily.,2025-07-01,2025-07-31,personal,low
+Revise data structures concepts,"Practice trees, graphs, and hashing problems.",2025-07-01,2025-07-15,education,high
+Clean fan blades and light fixtures,Use ladder and microfiber cloth to wipe.,2025-07-04,2025-07-10,home,low
+Schedule monthly goal review session,Reflect on tasks and adjust plan.,2025-07-01,2025-07-07,personal,medium
+Buy suitcase for business travel,"Look for cabin-sized, durable option with warranty.",2025-07-02,2025-07-11,travel,medium
+Install solar lamp in garden,Set fixture and charge under sunlight.,2025-07-03,2025-07-11,home,medium
+Analyze server load times,Use monitoring tool to study peak usage hours.,2025-07-01,2025-07-04,tech,high
+Practice mindfulness meditation daily,Set reminder for 10-minute breathing session.,2025-07-01,2025-07-31,health,low
+Refactor old CSS into SCSS,Organize stylesheets for maintainability.,2025-07-03,2025-07-09,project,high
+Create brochure for school event,Use templates to design trifold format.,2025-07-02,2025-07-06,education,medium
+Inspect bike chain before long ride,Oil and adjust tension where needed.,2025-07-03,2025-07-08,personal,low
+Test mobile app on iOS devices,Ensure compatibility on different screen resolutions.,2025-07-04,2025-07-12,project,high
+Research local nonprofit funding options,"List grant sources, donors, and deadlines.",2025-07-02,2025-07-18,community,medium
+Renew domain for blog,Login and make payment via provider.,2025-07-01,2025-07-10,tech,high
+Book dermatologist appointment,Check weekend slot and prepare list of symptoms.,2025-07-01,2025-07-05,health,medium
+Make a packing checklist for trip,"Include clothes, devices, IDs, toiletries.",2025-07-03,2025-07-07,travel,medium
+Fix lighting in study area,Replace bulb and adjust desk lamp.,2025-07-04,2025-07-09,home,low
+Set reminders for medication alerts,Configure timings on health tracking app.,2025-07-02,2025-07-04,health,high
+Buy kitchen containers for storage,Airtight jars for pulses and grains.,2025-07-01,2025-07-08,home,medium
+Write unit tests for login module,Cover all edge cases and errors.,2025-07-03,2025-07-06,tech,high
+Create marketing plan for side business,Design content calendar and outreach strategy.,2025-07-01,2025-07-12,career,high
+Attend college alumni networking event,RSVP and prepare elevator pitch.,2025-07-02,2025-07-08,education,medium
+Repair pedal on stationary exercise bike,Inspect mounting bolt and screws.,2025-07-01,2025-07-07,personal,low
+Renew Netflix subscription,Check upcoming charges and re-activate.,2025-07-04,2025-07-05,personal,low
+Submit Q3 budget report,Compile and submit the Q3 budget for approval.,2025-07-01,2025-07-10,work,high
+Review calculus assignments,Solve and cross-check weekly calculus homework.,2025-07-02,2025-07-09,education,medium
+Schedule annual health check-up,Book appointment with clinic for full-body checkup.,2025-07-03,2025-07-20,health,medium
+Pay electricity bill online,Settle this month's electricity dues via net banking.,2025-07-04,2025-07-08,finance,high
+Plan weekend getaway,Choose location and book hotel for short trip.,2025-07-01,2025-07-12,personal,low
+Fix broken kitchen drawer,Call carpenter to fix the broken bottom drawer.,2025-07-05,2025-07-15,home,medium
+Update resume and portfolio,Add new projects and update skill section.,2025-07-02,2025-07-10,career,high
+Book train tickets to Delhi,Book AC class tickets before the prices increase.,2025-07-04,2025-07-15,travel,medium
+Edit vacation vlog video,Add background music and cut extra footage.,2025-07-03,2025-07-20,hobby,low
+Update antivirus software,Install latest update on laptop and run scan.,2025-07-01,2025-07-06,tech,medium
+Organize community clean-up,Coordinate local volunteers and supplies.,2025-07-06,2025-07-19,community,high
+Add tests to backend API,Write unit tests for new API endpoints.,2025-07-05,2025-07-12,project,high
+Write research paper draft,Start writing introduction and methodology sections.,2025-07-04,2025-07-25,education,high
+Buy groceries for the week,Make list and purchase all kitchen essentials.,2025-07-02,2025-07-03,home,low
+Apply for internship,Submit application and resume to top 3 companies.,2025-07-06,2025-07-15,career,high
+Go for evening walk daily,Walk 30 minutes in the park for fitness.,2025-07-01,2025-07-31,health,low
+Setup monthly budget spreadsheet,Plan July expenses and set saving targets.,2025-07-02,2025-07-08,finance,medium
+Fix website footer bug,Resolve layout issue on mobile view.,2025-07-04,2025-07-09,tech,medium
+Submit code review feedback,Review peer pull requests and leave comments.,2025-07-01,2025-07-03,work,high
+Attend online ReactJS webinar,Join session on new React features and Q&A.,2025-07-05,2025-07-06,tech,low
+Plan surprise birthday dinner,Reserve table and buy decorations.,2025-07-03,2025-07-14,personal,medium
+Read "Deep Work" book,Read 10 pages daily and summarize.,2025-07-02,2025-07-28,hobby,low
+Organize books on shelf,Sort by genre and donate old books.,2025-07-03,2025-07-11,home,low
+Backup phone to cloud,Save photos and messages to Google Drive.,2025-07-01,2025-07-07,tech,medium
+Write weekly progress update,Send status report to team lead.,2025-07-04,2025-07-05,work,medium
+Clean washing machine drum,Run vinegar cycle and scrub inside.,2025-07-06,2025-07-10,home,low
+Prepare for coding contest,Solve 5 DSA problems daily.,2025-07-01,2025-07-20,education,high
+Start morning meditation habit,Practice mindfulness 10 minutes each morning.,2025-07-03,2025-07-31,health,low
+Transfer funds to savings,"Move ₹10,000 to savings account.",2025-07-02,2025-07-05,finance,medium
+Design event flyer,Create layout and graphics for open mic night.,2025-07-05,2025-07-13,project,medium
+Respond to recruiter email,Confirm availability for screening call.,2025-07-04,2025-07-06,career,high
+Upload notes to Google Drive,Scan and upload lecture notes for backup.,2025-07-02,2025-07-09,education,medium
+Decorate study desk,"Buy lamp, plant, and organizers.",2025-07-03,2025-07-11,personal,low
+Test contact form on site,Ensure emails are received by admin.,2025-07-05,2025-07-08,project,medium
+Visit bank for document update,Submit address proof and update KYC.,2025-07-01,2025-07-15,finance,medium
+Host monthly team call,Prepare agenda and meeting link.,2025-07-06,2025-07-07,work,medium
+Clean balcony and water plants,Sweep floor and hydrate potted plants.,2025-07-03,2025-07-06,home,low
+Refactor login component,Make reusable and add error handling.,2025-07-04,2025-07-10,tech,high
+Donate old clothes to NGO,Sort and pack unused clothing.,2025-07-02,2025-07-12,community,medium
+Watch Git basics video,"Understand init, add, commit, and push.",2025-07-01,2025-07-03,tech,low
+Help brother with assignment,Review and suggest edits to report.,2025-07-05,2025-07-10,personal,medium
+Finalize vacation budget,"Estimate travel, food, and stay costs.",2025-07-02,2025-07-13,travel,medium
+Fix profile photo upload issue,Debug image validation logic.,2025-07-03,2025-07-06,project,high
+Book dentist appointment,Annual teeth cleaning and checkup.,2025-07-01,2025-07-10,health,medium
+Submit college fee,Pay July semester installment.,2025-07-02,2025-07-09,education,high
+Order groceries online,Add essentials to Instamart cart.,2025-07-03,2025-07-04,home,low
+Plan tech meetup agenda,List speakers and discussion topics.,2025-07-05,2025-07-15,community,medium
+Clean email inbox,Delete old newsletters and spam.,2025-07-01,2025-07-05,personal,low
+Test payment gateway,Ensure successful checkout with demo card.,2025-07-04,2025-07-06,project,high
+Create intro video for online course,Edit and upload short introduction on course portal.,2025-07-04,2025-07-10,project,high
+Update emergency contact info with employer,Log in to HR portal and enter latest details.,2025-07-03,2025-07-07,work,medium
+Buy desk lamp for workspace,Choose LED with adjustable brightness.,2025-07-02,2025-07-06,home,low
+Translate recipe instructions to English,Convert ingredients and steps clearly.,2025-07-03,2025-07-08,hobby,medium
+Organize digital notes from workshop,Label and categorize by topic in app.,2025-07-04,2025-07-09,education,medium
+Fix padding issue in blog layout,Edit CSS for better responsiveness.,2025-07-02,2025-07-05,tech,high
+Get health insurance quotes,Compare plans with different coverage options.,2025-07-01,2025-07-11,finance,high
+Reapply for lost PAN card,Submit photo and ID proof online.,2025-07-03,2025-07-12,finance,medium
+Take friend to airport,Plan departure based on flight schedule.,2025-07-04,2025-07-05,personal,low
+Create Spotify playlist for gym,Add 30 high-energy workout tracks.,2025-07-02,2025-07-04,personal,low
+Test chatbot conversation flows,Simulate scenarios and refine responses.,2025-07-03,2025-07-08,tech,high
+Upload final logo assets to Drive,Send PNG and SVG versions to team.,2025-07-02,2025-07-06,project,medium
+Send invitation for team lunch,Book restaurant and add group to calendar.,2025-07-03,2025-07-05,work,low
+Revise SOP draft for master’s program,Improve grammar and remove repetitive content.,2025-07-01,2025-07-10,career,high
+Set up calendar sync on mobile,Enable Google and work calendar integration.,2025-07-04,2025-07-06,tech,medium
+Buy birthday cake and candles,Order chocolate truffle and accessories.,2025-07-01,2025-07-05,personal,low
+Read news articles on global economy,Select 3 reputable sources each day.,2025-07-01,2025-07-15,personal,low
+Download YouTube videos for offline course,Save tutorials for weekend trip.,2025-07-02,2025-07-04,education,low
+Export monthly transaction history from bank,Download CSV for personal budget tracking.,2025-07-02,2025-07-06,finance,high
+Check AC filters for cleaning,Wipe filters and reset indicator.,2025-07-04,2025-07-08,home,medium
+Practice TypeScript interfaces and types,Review object typing using challenges.,2025-07-03,2025-07-10,tech,medium
+Book movie tickets with friends,Pick preferred seats and confirm showtiming.,2025-07-01,2025-07-03,personal,low
+Research scholarship options for MS abroad,Compare eligibility and funding coverage.,2025-07-02,2025-07-18,education,high
+Respond to mentor feedback on prototype,List discussed changes and update UI.,2025-07-03,2025-07-07,project,high
+Print poster for science exhibition,Use A3 sheets with color illustrations.,2025-07-01,2025-07-05,education,medium
+Update shipping address in online store,Enter correct address for upcoming orders.,2025-07-02,2025-07-04,personal,medium
+Check expiry dates on pantry items,Discard expired groceries and note reusables.,2025-07-03,2025-07-06,home,low
+Fix scroll lag on single-page application,Improve performance with debounce functions.,2025-07-02,2025-07-09,tech,high
+Submit photography contest entry,Choose best shot and provide title.,2025-07-01,2025-07-07,hobby,medium
+Install app to track water intake,Set reminders for hydration goals.,2025-07-04,2025-07-05,health,low
+Create wireframe for portfolio website,"Sketch landing, about, project sections.",2025-07-03,2025-07-10,project,medium
+Repair door hinge in study room,Tighten bolts and align door.,2025-07-01,2025-07-06,home,low
+Sign-up for weekend yoga workshop,Fill registration form and pay fee.,2025-07-02,2025-07-07,health,medium
+Add contributors to GitHub repo,Assign roles and send invite link.,2025-07-01,2025-07-02,tech,high
+Buy toys for animal shelter,Pick dog toys and cat treats.,2025-07-01,2025-07-10,community,low
+Review SaaS platform accessibility issues,Aim for WCAG 2.1 compliance.,2025-07-02,2025-07-09,work,medium
+Edit profile picture for resume,Use neutral background and crop to size.,2025-07-04,2025-07-06,career,high
+Book table for date night,Choose rooftop restaurant with early reservation.,2025-07-02,2025-07-07,personal,medium
+Research hiking routes in Himachal,"Check elevation, permits, and season.",2025-07-03,2025-07-15,travel,medium
+Upload notes to shared drive,Organize folders by subject and week.,2025-07-01,2025-07-04,education,medium
+Schedule story post for campaign,Write copy and add scheduled time.,2025-07-03,2025-07-05,project,medium
+Buy drawing supplies for weekend class,"Get pencils, erasers, and sketch pad.",2025-07-02,2025-07-06,hobby,medium
+Replace batteries in all remotes,Buy AAA and test each device.,2025-07-01,2025-07-05,home,low
+Attend tech career fair,Bring updated resume and dress formally.,2025-07-04,2025-07-09,career,medium
+Submit Google Form for alumni details,Fill out profession and location info.,2025-07-01,2025-07-03,education,low
+Consult with mentor on skill development,Ask for tech pathway suggestions.,2025-07-03,2025-07-07,career,high
+Update Trello board for design sprint,Move cards and assign tasks.,2025-07-02,2025-07-04,project,medium
+Handle electricity bill payment,Pay via UPI to avoid late fees.,2025-07-01,2025-07-05,finance,high
+Prepare annual income report,Collect receipts and fill yearly income spreadsheet.,2025-07-04,2025-07-18,finance,high
+Read journal article on AI ethics,Take notes on key arguments and conclusions.,2025-07-05,2025-07-12,education,medium
+Book hotel for workshop trip,Find nearby accommodation with free cancellation.,2025-07-06,2025-07-15,travel,medium
+Deep clean bedroom closet,Sort clothes and donate unused items.,2025-07-04,2025-07-10,home,low
+Submit LinkedIn job application,Customize resume and cover letter.,2025-07-07,2025-07-11,career,high
+Fix navbar responsiveness bug,Debug mobile menu toggle and styling.,2025-07-05,2025-07-08,project,high
+Join weekly yoga session,Attend Friday morning online class.,2025-07-01,2025-07-31,health,low
+Transfer money to parents,Send fixed monthly amount via UPI.,2025-07-06,2025-07-07,finance,high
+Design business card layout,Try minimal black and white design.,2025-07-03,2025-07-13,career,medium
+Organize tech blog ideas,Create content calendar for next month.,2025-07-05,2025-07-20,tech,low
+Update profile on job portal,Add latest project and tech stack.,2025-07-07,2025-07-09,career,medium
+Buy waterproof phone pouch,For beach trip and monsoon protection.,2025-07-06,2025-07-14,travel,low
+Record coding tutorial on strings,Explain basic string operations in Python.,2025-07-04,2025-07-18,hobby,medium
+Check car tire alignment,Visit service center for wheel check.,2025-07-05,2025-07-12,personal,low
+Write thank-you email to mentor,Express gratitude and mention key lessons.,2025-07-06,2025-07-10,personal,medium
+Submit proposal for community event,Include budget and timeline.,2025-07-03,2025-07-15,community,high
+Review unit test results,Check coverage and improve weak areas.,2025-07-04,2025-07-08,tech,high
+Pay mobile phone bill,Recharge before service expires.,2025-07-01,2025-07-06,finance,medium
+Clean bathroom tiles,Use vinegar and baking soda.,2025-07-07,2025-07-09,home,low
+Draft LinkedIn article on internships,Summarize experience and lessons.,2025-07-04,2025-07-13,career,medium
+Update college portal password,Change login credentials for security.,2025-07-05,2025-07-10,education,low
+Download conference presentation slides,Save PDFs from official site.,2025-07-06,2025-07-08,education,medium
+Fix app crash on startup,Investigate Android logs for bug.,2025-07-07,2025-07-10,project,high
+Host family lunch,Decide menu and invite guests.,2025-07-03,2025-07-14,personal,medium
+Register for hackathon,Create team and submit form.,2025-07-01,2025-07-09,tech,high
+Submit leave request for trip,Email manager with proposed dates.,2025-07-04,2025-07-06,work,medium
+Declutter bedside drawers,Remove unused items and sanitize.,2025-07-05,2025-07-11,home,low
+Start 30-day language challenge,Practice Spanish for 15 minutes daily.,2025-07-01,2025-07-31,hobby,low
+File reimbursement for workshop,Upload scanned bills and tickets.,2025-07-06,2025-07-15,work,medium
+Design event registration form,"Include name, email, preferences.",2025-07-05,2025-07-12,project,medium
+Help friend prepare resume,Review format and add bullet points.,2025-07-04,2025-07-09,career,low
+Finalize team for group project,Confirm roles and responsibilities.,2025-07-03,2025-07-10,education,high
+Book train for weekend trip,Choose AC coach and window seat.,2025-07-06,2025-07-14,travel,medium
+Clean under kitchen sink,Remove expired cleaners and pests.,2025-07-07,2025-07-11,home,low
+Draft UI for to-do app,"Include calendar, filter, and dark mode.",2025-07-04,2025-07-16,tech,high
+Water terrace garden plants,Every alternate day before 9am.,2025-07-01,2025-07-31,personal,low
+Design fundraising poster,Highlight cause and QR donation code.,2025-07-05,2025-07-15,community,medium
+Buy flowers for parents' anniversary,Choose roses or lilies with vase.,2025-07-03,2025-07-06,personal,medium
+Take database backup,Export SQL and cloud copy.,2025-07-04,2025-07-08,tech,medium
+Attend interview prep webinar,Register for resume and HR tips.,2025-07-02,2025-07-05,career,medium
+Pack suitcase for trek,"Include jacket, torch, and snacks.",2025-07-05,2025-07-09,travel,low
+Create intro slide for seminar,"Add topic, name, and affiliation.",2025-07-06,2025-07-08,education,medium
+Collect internship certificate,Email HR for digital copy.,2025-07-01,2025-07-07,career,high
+Clean work desk and cables,Untangle wires and dust surface.,2025-07-03,2025-07-06,home,low
+Update browser extensions,Remove unused and add password manager.,2025-07-04,2025-07-10,tech,low
+Plan weekend gaming night,Invite friends and prepare snacks.,2025-07-05,2025-07-13,hobby,medium
+Send newsletter to subscribers,Schedule campaign and proofread content.,2025-07-06,2025-07-07,project,high
+Review exam schedule,Mark subjects and dates on calendar.,2025-07-03,2025-07-08,education,medium
+Attend blood donation camp,Register and carry ID proof.,2025-07-05,2025-07-10,community,medium
+Refill pet food container,Buy dry food and transfer to airtight bin.,2025-07-04,2025-07-06,home,low
+Write newsletter content for July,Include 3 updates and community spotlight.,2025-07-02,2025-07-06,work,medium
+Join Discord study group for coding,Accept invite and set availability.,2025-07-03,2025-07-08,education,low
+Evaluate monthly health metrics,Check heart rate and sleep quality report.,2025-07-01,2025-07-05,health,medium
+Design thank-you card for teacher,Print message and decorate by hand.,2025-07-04,2025-07-09,personal,low
+Clean whiteboard and markers,Use cloth and replace dry ones.,2025-07-02,2025-07-03,home,low
+Sort monthly receipts by category,"Label office, groceries, and transport bills.",2025-07-01,2025-07-07,finance,medium
+Practice presenting research topic,Rehearse for 10 minutes each day.,2025-07-02,2025-07-10,education,high
+Mark bills as reimbursed,Update spreadsheet and email accounts.,2025-07-02,2025-07-04,work,medium
+Purchase yoga mat online,"Choose padded, non-slip variant.",2025-07-03,2025-07-06,health,low
+Help mom update Aadhaar details,Book appointment and upload documents.,2025-07-04,2025-07-12,personal,medium
+Create GitHub issue templates,Add bug report and feature request format.,2025-07-01,2025-07-05,project,high
+Review CV with career counselor,Get feedback and update accordingly.,2025-07-03,2025-07-10,career,high
+Polish shoes for formal event,Clean and apply leather polish.,2025-07-02,2025-07-04,home,low
+Post code snippet on dev forum,Solve query with custom script.,2025-07-01,2025-07-03,tech,medium
+Scan paper bills and upload backup,Organize in cloud under “Documents”.,2025-07-03,2025-07-08,finance,medium
+Host community Discord Q&A,Prepare agenda and moderate session.,2025-07-02,2025-07-06,community,medium
+Attend webinar on emotional intelligence,Block 60 minutes and take notes.,2025-07-03,2025-07-04,personal,low
+Organize wardrobe by season,Pack sweaters and label boxes.,2025-07-01,2025-07-09,personal,medium
+Book appointment with nutritionist,Check for availability on weekend.,2025-07-03,2025-07-10,health,medium
+Update personal notes on investments,List SIPs and due dates.,2025-07-01,2025-07-14,finance,high
+Watch tutorial on building REST API,Follow along and take notes.,2025-07-02,2025-07-07,tech,medium
+Set up flashcard deck for German words,Add 20 new vocabulary terms.,2025-07-01,2025-07-05,education,low
+Pack lunch for office week,Plan healthy meals for 5 days.,2025-07-04,2025-07-06,personal,low
+Optimize images on blog,Compress JPGs and replace slow loaders.,2025-07-02,2025-07-05,project,medium
+Call AC service guy for maintenance,Clean filter and check coolant.,2025-07-01,2025-07-06,home,medium
+Check standing instruction for rent,Verify account automation in bank app.,2025-07-01,2025-07-03,finance,high
+Write summary of weekly progress,Compile goals met and pending items.,2025-07-02,2025-07-04,work,medium
+Submit PowerPoint deck for review,Add speaker notes and transitions.,2025-07-01,2025-07-05,work,high
+Perform code cleanup and formatting,Run Prettier and remove unused imports.,2025-07-01,2025-07-03,tech,medium
+Print and laminate ID badges,"Design, print names and get laminated.",2025-07-02,2025-07-07,community,medium
+Bake cookies for local fundraiser,Prepare 2 dozen and pack neatly.,2025-07-02,2025-07-06,community,low
+Prepare items for garage sale,Price old gadgets and label.,2025-07-03,2025-07-11,personal,low
+Buy insurance for scooter,Compare yearly plans and submit KYC.,2025-07-01,2025-07-07,finance,medium
+Write email to apartment manager,Log maintenance issue in lift.,2025-07-02,2025-07-04,home,low
+Annotate PDF research papers,Highlight key terms and methodology.,2025-07-01,2025-07-08,education,medium
+Install Ubuntu on old laptop,Back up files and create bootable USB.,2025-07-03,2025-07-06,tech,high
+Get passport size photographs,Visit photo studio near post office.,2025-07-02,2025-07-05,personal,low
+Practice sketching human anatomy,Draw poses using online references.,2025-07-01,2025-07-10,hobby,medium
+Create proposal for freelance client,"Add timeline, cost, and deliverables.",2025-07-04,2025-07-07,career,high
+Start 30-day journaling challenge,Write 5 minutes each morning.,2025-07-01,2025-07-31,personal,low
+Attend Azadi Ka Amrit Mahotsav event,Join flag hoisting and cultural show.,2025-07-03,2025-07-05,community,low
+Compile outlines for training video,Add scene points and duration.,2025-07-02,2025-07-06,project,medium
+Scan handwritten notes and convert to PDF,Use mobile scanner app.,2025-07-01,2025-07-04,education,medium
+Buy external webcam for meetings,Check resolution and sound quality.,2025-07-02,2025-07-09,work,medium
+Final sign-off on invoice approvals,Verify amounts and client details.,2025-07-04,2025-07-07,finance,high
+Send Diwali invites to family,Choose design and email PDF copies.,2025-07-03,2025-07-08,personal,low
+Calibrate fitness tracker metrics,Align with health app on phone.,2025-07-02,2025-07-06,health,low
+Test website for screen reader access,Ensure all elements have alt tags.,2025-07-01,2025-07-07,tech,medium
+Join virtual community cleanup campaign,Sign up and complete neighborhood checklist.,2025-07-02,2025-07-05,community,low
+Create LinkedIn content strategy,Plan engagement posts for each week.,2025-07-04,2025-07-07,career,high
+Restock household cleaning supplies,"Buy mop refills, detergent and sprays.",2025-07-02,2025-07-06,home,low
+Plan solo trip to Pondicherry,Book hostel and local tour.,2025-07-01,2025-07-15,travel,medium
+Fix layout issues in resume PDF,Align icons and text padding.,2025-07-04,2025-07-06,career,medium

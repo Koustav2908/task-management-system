@@ -1,11 +1,11 @@
 title: title of the task (about 5 - 10 words)
 
-description: description of the task (about 20 - 50 words)
+description: description of the task (about 10 - 20 words)
 
 created_at: date of creation of task (yyyy-mm-dd format)
 
 deadline: due date to complete the task (yyyy-mm-dd format)
 
-category: category of the task (school, work, personal, finance, health, project)
+category: category of the task (work, education, health, finance, personal, home, career, travel, hobby, tech, community, project)
 
 priority: importance of the task (high, medium, low)
