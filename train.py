@@ -461,8 +461,8 @@ print(f"""
 # SAVE THE MODELS, VECTORIZER, AND LABEL ENCODER
 # ==============================================================================
 
-joblib.dump(best_model_c, "models/categorize_model.pkl")
-joblib.dump(best_model_p, "models/prioritize_model.pkl")
+joblib.dump(best_model_c, "models/category_model.pkl")
+joblib.dump(best_model_p, "models/priority_model.pkl")
 joblib.dump(tfidf, "models/tfidf_vectorizer.pkl")
 joblib.dump(category_le, "models/category_label_encoder.pkl")
 joblib.dump(priority_le, "models/priority_label_encoder.pkl")
