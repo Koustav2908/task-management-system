@@ -273,48 +273,6 @@ print(f"Best priority accuracy: {best_acc_p:.3f}")
 print("\n📈 CREATING VISUALIZATIONS")
 print("-" * 30)
 
-# fig, axes = plt.subplots(2, 2, figsize=(12, 10))
-
-# # 1. Category distribution
-# df["category"].value_counts().plot(kind="bar", ax=axes[0, 0])
-# axes[0, 0].set_title("Task Category Distribution")
-# axes[0, 0].set_xlabel("Category")  # Added x-label
-# axes[0, 0].set_ylabel("Count")  # Added y-label
-# axes[0, 0].tick_params(axis="x", rotation=45)
-
-# # 2. Priority distribution
-# df["priority"].value_counts().plot(kind="pie", ax=axes[0, 1], autopct="%1.1f%%")
-# axes[0, 1].set_title("Priority Distribution")
-
-# # 3. Model comparison
-# models = ["Logistic Regression (Tuned)", "Random Forest (Tuned)"]  # Updated labels
-# accuracies = [lr_acc, rf_acc]
-# axes[1, 0].bar(models, accuracies, color=["skyblue", "lightgreen"])
-# axes[1, 0].set_title("Model Accuracy (Tuned)")  # Updated title
-# axes[1, 0].set_ylabel("Accuracy")
-# axes[1, 0].set_ylim(0, 1)  # Set y-limit for better visualization
-# for i, acc in enumerate(accuracies):
-#     axes[1, 0].text(i, acc + 0.01, f"{acc:.3f}", ha="center")
-
-# # 4. Confusion matrix
-# cm = confusion_matrix(y_test_c, rf_pred if rf_acc > lr_acc else lr_pred)
-# sns.heatmap(
-#     cm,
-#     annot=True,
-#     fmt="d",
-#     cmap="Blues",
-#     xticklabels=category_le.classes_,
-#     yticklabels=category_le.classes_,
-#     ax=axes[1, 1],
-# )
-# axes[1, 1].set_title("Confusion Matrix")
-# axes[1, 1].set_xlabel("Predicted")
-# axes[1, 1].set_ylabel("Actual")
-
-# plt.tight_layout()
-# plt.savefig("images/results.png", dpi=300, bbox_inches="tight")
-# plt.show()
-
 fig, axes = plt.subplots(3, 2, figsize=(14, 15))
 
 # 1. Category distribution
