@@ -1,4 +1,4 @@
-# Train the categorize model
+# AI_Powered Task Management System
 
 import re
 import warnings
@@ -121,7 +121,7 @@ for category in df["category"].unique()[:3]:  # Show only 3 categories
     print(f"{category}: {top_words}")
 
 # ==============================================================================
-# ML MODELS FOR TASK CATEGORIZATION
+# ML MODELS FOR TASK CATEGORIZATION AND PRIOTIZATION
 # ==============================================================================
 
 print("\n🤖 ML MODELS")
