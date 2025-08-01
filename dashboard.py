@@ -48,9 +48,7 @@ if "history" not in st.session_state:
 
 # Sidebar info
 st.sidebar.title("About")
-st.sidebar.info(
-    "Predict task Category & Priority. Logs history, export CSV, Slack alerts on high priority."
-)
+st.sidebar.info("Predict task Category & Priority. Logs history, and export CSV.")
 
 # Main title
 st.title("🔮 Insightful Task Category & Priority Predictor")
